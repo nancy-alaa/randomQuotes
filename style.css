@@ -1,0 +1,28 @@
+body{
+    background-color: #FECB53;
+    text-align: center;
+    color: black;
+}
+
+.lacquer-regular {
+    font-family: "Lacquer", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5rem;
+    margin: 5%;
+}
+
+
+p, button {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 2rem;
+
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
